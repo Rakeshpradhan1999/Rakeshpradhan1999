@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/solocoder1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solocoder1999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rakesh-pradhan-aa275a199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-pradhan-aa275a199" height="30" width="40" /></a>
-<a href="https://instagram.com/solocoder1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="solocoder1999" height="30" width="40" /></a>
+<a href="https://twitter.com/solocoder1999" target="blank"><img align="center" src="https://res.cloudinary.com/rakes-code/image/upload/v1681915489/twitter-logo-2429_1_c3hf1g.png" alt="solocoder1999" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rakesh-pradhan-aa275a199" target="blank"><img align="center" src="https://res.cloudinary.com/rakes-code/image/upload/v1681915445/linkedin-logo-2430_smjbzs.png" alt="rakesh-pradhan-aa275a199" height="30" width="40" /></a>
+<a href="https://instagram.com/solocoder1999" target="blank"><img align="center" src="https://res.cloudinary.com/rakes-code/image/upload/v1681915398/instagram-logo-8869_o365og.png" alt="solocoder1999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
