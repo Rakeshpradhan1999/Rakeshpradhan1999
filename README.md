@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Rakesh</h1>
-<h3>A passionate MERN Stack developer from India.</h3>
+<h3>A passionate MERN Stack and Web3 developer from India.</h3>
 
 -📫 Reach me at **pradhanrakesh558@gmail.com**
 
