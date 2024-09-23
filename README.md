@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Rakesh</h1>
 <h3>A passionate MERN Stack and Web3 developer from India.</h3>
 
--📫 Reach me at **pradhanrakesh558@gmail.com**
+-📫 Reach me at **rakesh@rakeshpradhan.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
